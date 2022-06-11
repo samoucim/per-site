@@ -11,6 +11,6 @@ in a while. So if you've ever wanted to "give back" to Scrimba, you can do that 
 - [The Responsive Web Design Bootcamp](https://scrimba.com/course/gresponsive)
 - [The Ultimate JavaScript Bootcamp](https://scrimba.com/course/gjavascript)
 
-	It would also mean the world to us if you share the courses.  
+It would also mean the world to us if you share the courses.  
 
 Happy Coding!
