@@ -1,4 +1,4 @@
-# title(){return this.options.title||this.options.name}
+# Scrimba Project - Personal Web Page
 
 ## Supporting Scrimba
 
